@@ -7,17 +7,17 @@ Clonar el repositorio y luego acceder a la domumentación:
 **Swagger**: http://localhost:8080/swagger-ui.html
 
 
-- PROJECT INFO: 
+- INFORMACION GENERAL DEL PROYECTO: 
 
 **Build**:  
         
   - Con Marven
   - Java 11
   - Database : H2
-  - Hibernate
+  - Hibernate ORM
 
 
-**Como Funciona ?**
+**CÓMO FUNCIONA ?**
 
 Es una aplicacion que responde a todos las funcionalidades de un CRUD basico
 
