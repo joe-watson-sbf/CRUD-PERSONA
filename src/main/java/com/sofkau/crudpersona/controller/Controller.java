@@ -2,7 +2,6 @@ package com.sofkau.crudpersona.controller;
 
 import com.sofkau.crudpersona.Services.ServicePersona;
 import com.sofkau.crudpersona.domain.Persona;
-import com.sofkau.crudpersona.utils.Exceptions.BusinessException;
 import com.sofkau.crudpersona.utils.Respuesta;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
