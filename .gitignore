@@ -4,8 +4,6 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-src/main/java/com/sofkau/crudpersona/config
-src/main/java/com/sofkau/crudpersona/utils
 
 README.md
 ### STS ###
